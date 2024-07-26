@@ -1,0 +1,9 @@
+3d raytracing:::
+
+w3d  World 3D
+
+vertix {x:- , y:- , z:-}
+/// line [vertix 0 , vertix 1]
+triangle [vertix 0 , vertix 1 , vertix 2]
+
+cPX() cPY()  (x,y) centers the points
